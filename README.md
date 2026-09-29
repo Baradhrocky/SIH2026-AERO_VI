@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚁 AEROCUE: Autonomous SAR Drone</h1>
+  <h1>🚁 AERO VI : Autonomous SAR Drone</h1>
   <p><strong>Offline, zero-network Edge AI delivering real-time survivor detection and aerial reconnaissance directly to the disaster zone.</strong></p>
   <p><i>Smart India Hackathon 2026</i></p>
 </div>
