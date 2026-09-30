@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚁 AERO VI : Autonomous SAR Drone</h1>
+  <h1>🚁 AGRO VI : Autonomous SAR Drone</h1>
   <p><strong>Offline, zero-network Edge AI delivering real-time survivor detection and aerial reconnaissance directly to the disaster zone.</strong></p>
   <p><i>Smart India Hackathon 2026</i></p>
 </div>
@@ -25,7 +25,7 @@ During the critical **Golden 72 Hours** of a disaster, response teams suffer sev
 ---
 
 ## 💡 Our Solution: Key Features
-AEROCUE is an indigenous, field-ready autonomous rescue drone that bypasses infrastructure failures using on-device processing and multi-spectral sensors, linked directly to a local web command center.
+AGRO VI is an indigenous, field-ready autonomous rescue drone that bypasses infrastructure failures using on-device processing and multi-spectral sensors, linked directly to a local web command center.
 
 1. **Edge-Based Multi-Spectral Triage:** Detects and localizes human survivors through dense smoke and complete darkness by running quantized INT8 neural networks directly on the companion computer, within 150 milliseconds.
 2. **Sub-Surface Acoustic Distress Detection:** Directional MEMS microphones employ real-time noise-cancellation filters to isolate human screams and structural pipe-tapping beneath rubble from drone propeller wash.
